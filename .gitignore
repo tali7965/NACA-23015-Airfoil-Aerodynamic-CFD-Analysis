@@ -48,8 +48,7 @@ __pycache__/
 *.synctex.gz
 *.fls
 *.fdb_latexmk
-
-
+# Project-Specific Excluded Assets & Sources
 Fm2-project.pdf
-report_figures
-Fm2-project-translated.tex
+*.tex
+report_figures/

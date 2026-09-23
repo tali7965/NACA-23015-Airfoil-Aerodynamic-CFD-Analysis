@@ -1,0 +1,39 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+*.bak
+
+# Logs & Debugging
+debug.log
+*.log
+!**/fluent*-error.log
+
+# ANSYS Workbench Lock & Temporary Files
+*.lock
+*.wbdp.lock
+*.asv
+*.tmp
+*.wbjn.bak
+*.wbpj.bak
+*~
+
+# Python (if post-processing scripts are used)
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/

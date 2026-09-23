@@ -37,3 +37,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 .ipynb_checkpoints/
+
+# LaTeX Auxiliary Files
+*.aux
+*.toc
+*.out
+*.nav
+*.snm
+*.vrb
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+

@@ -52,8 +52,11 @@ This repository contains the complete computational fluid dynamics (CFD) simulat
 │   └── progress_files/            # Solution monitors, reports, and generated plots
 ├── NACA23015.csv                  # Airfoil coordinate table (CSV format)
 ├── NACA23015.txt                  # Airfoil coordinates formatted for ANSYS DesignModeler
-├── Fm2-project.pdf                # Full technical report (figures, tables, and analysis)
-├── .gitignore                     # Git ignore rules for CAD/CFD and OS files
+├── Fm2-project.pdf                # Original technical report (Persian)
+├── Fm2-project-translated.pdf     # Translated & formatted academic report (English)
+├── Fm2-project-translated.tex     # LaTeX source for the academic report
+├── report_figures/                # High-resolution simulation figures and plots
+├── .gitignore                     # Git ignore rules for CAD/CFD, LaTeX, and OS files
 └── README.md                      # Project documentation
 ```
 
@@ -83,3 +86,4 @@ This repository contains the complete computational fluid dynamics (CFD) simulat
 
 Academic project developed for the Fluid Mechanics II course.
 Feel free to use and reference the geometry coordinates, journals, and simulation setups for academic and research purposes.
+

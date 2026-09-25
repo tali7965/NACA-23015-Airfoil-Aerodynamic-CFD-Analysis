@@ -1,8 +1,0 @@
-# Ignore everything
-/*
-/.*
-
-# Whitelist exceptions
-!/project_report.pdf
-!/README.md
-

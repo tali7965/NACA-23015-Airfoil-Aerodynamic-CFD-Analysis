@@ -1,8 +1,8 @@
-# Ignore all files and directories by default
+# Ignore everything
 /*
-.*
-*
+/.*
 
-# Whitelist only the specified project deliverables and Git configuration
-!/README.md
+# Whitelist exceptions
 !/project_report.pdf
+!/README.md
+
